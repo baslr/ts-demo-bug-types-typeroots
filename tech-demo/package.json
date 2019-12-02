@@ -1,0 +1,11 @@
+{
+  "name": "tech-demo",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "dependencies": {
+    "@types/node": "^12.12.14",
+    "testmodule": "file:../testmodule/testmodule-1.0.0.tgz",
+    "typescript": "^3.8.0-dev.20191128"
+  },
+  "types": "./dist/index.d.ts"
+}

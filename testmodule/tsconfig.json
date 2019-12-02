@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./",
+        "declaration": true,
+        "moduleResolution": "node",
+        "rootDir": "./",
+        "module": "commonjs",
+        "typeRoots": [
+            "./types",
+            "./node_modules/@types"
+        ]
+    },
+}
